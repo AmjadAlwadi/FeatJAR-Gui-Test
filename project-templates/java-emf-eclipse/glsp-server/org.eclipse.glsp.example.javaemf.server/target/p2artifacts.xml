@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.glsp.example.javaemf.server' version='2.5.0'>
+    <properties size='9'>
+      <property name='artifact.size' value='36299'/>
+      <property name='download.size' value='36299'/>
+      <property name='download.checksum.sha-512' value='8f67f348ee0e3068a3e3d04c112c96696d8f9f8fd19da2d8ea39e5ec424e4478c04261aaefe64e73b5765523f4bcd2b1d005d0157c72daa95a05883ac1f3ad88'/>
+      <property name='download.checksum.sha-1' value='b7e7a9d3885661495a8c0bf9a7e1c28b01338123'/>
+      <property name='download.checksum.sha-256' value='7553abd10ae1ae1d27aa250b803e38c739c72af65183aaba12661e931de3ce50'/>
+      <property name='maven-groupId' value='org.eclipse.glsp.example'/>
+      <property name='maven-artifactId' value='org.eclipse.glsp.example.javaemf.server'/>
+      <property name='maven-version' value='2.5.0'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+    </properties>
+  </artifact>
+</artifacts>
